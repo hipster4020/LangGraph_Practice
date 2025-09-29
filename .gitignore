@@ -205,3 +205,15 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+# directory
+config
+src/test/practice/backup
+src/test/practice/db
+
+# Virtual environments
+.venv
+.python-version
+pyproject.toml
+uv.lock
